@@ -17,7 +17,6 @@ This repo contains all the learning materials for UC Berkeley's course [CS170 : 
 - [readings](./readings) : 9 chapters + 4 supplementary notes
 - [sections](./sections) : discussion units covering the important ideas in course
 - [hws](./hws) : homework with solution
-- [solution](./solution) :  my solution for homework
 - [Latex](./Latex) : latex template for homework and latex tutorials
 
 ## Want to learn more ?
