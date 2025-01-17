@@ -19,7 +19,3 @@ This repo contains all the learning materials for UC Berkeley's course [CS170 : 
 - [hws](./hws) : homework with solution
 - [Latex](./Latex) : latex template for homework and latex tutorials
 
-## Want to learn more ?
-
-Check out [this repository](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) which contains all my self-learning materials : )
-
